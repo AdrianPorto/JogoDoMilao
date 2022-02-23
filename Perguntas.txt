@@ -1,0 +1,12 @@
+01,Qual é a maior velocidade que existe em nosso mundo?: a) Velocidade Hiperssonica. b) Velocidade Ultrassonica. c) Velocidade da Luz. d) Velocidade Estelar. e) Velocidade Vertical/
+02,Qual o nome correto dado a quem auxilia. e ajuda pessoas a fazerem exercicios corretamente em uma academia?: a) Ajudante. b) Campeao. c) Personal Trainer. d) Auxiliador. e) Chefe/
+03,Qual o nome que se da a um "pe de uvas"?: a) Videira. b) Uval. c) Uveiro. d) Raiz De Uvas. e) Pe de uva/
+04,Voce esta dirigindo um onibus, na primeira parada sobe João e Maria,. e na segunda sobe Aline e Lucas, e na terceira Clayton, Qual o nome do motorista?: a) Voce. b) Clayton. c) Joao. d) Lucas. e) nenhuma das alternativas/
+05,Qual o coletivo de Lobos?: a) Armada. b) Alcateia. c) Manada. d) Matilha. e) Colmeia/
+06,Qual nome se da ao masculino adulto de cabra?: a) Cabrito. b) Cabra-Macho. c) Bode. d) Carneiro. e) Bezerro/
+07,De onde é a invenção do chuveiro eletrico?: a) França. b) Inglaterra. c) Brasil. d) Australia. e) Italia/
+08,Em que ano foi inventada a bicicleta?: a) 1817. b) 1960. c) 1680. d) 1798. e) 1990/
+09,Quantos "9" tem de 0 a 100?: a) 10. b) 11. c) 19. d) 20. e) 21/
+10,Quem descobriu o Brasil?: a) Dom Pedro II. b) Pedro Alvares Cabral. c) Cristovao Colombo. d) Bartolomeu Dias Constantino. e) Dom Pedro I/
+11,Qual foi a primeira capital do Brasil?: a) Brasilia. b) Rio de Janeiro. c) Sao Paulo. d) Salvador. e) Minas Gerais/
+12,Qual o livro mais vendido no mundo a seguir � Biblia?: a) O Senhor dos Aneis. b) Dom Quixote. c) O Pequeno Principe. d) Ela, a Feiticeira. e) Um Conto de Duas Cidades/

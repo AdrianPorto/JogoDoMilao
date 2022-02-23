@@ -1,0 +1,16 @@
+ public static void main(String[] args) {
+     
+1,Qual � a maior velocidade que existe em nosso mundo?,a) Velocidade Hiperss�nica, b) Velocidade Ultrass�nica, c) Velocidade da Luz, d) Velocidade Estelar 
+2,Qual o nome correto dado a quem auxilia, e ajuda pessoas a fazerem exerc�cios corretamente em uma academia? , a) Ajudante, b) Campe�o, c) Personal Trainer, d) Auxiliador 
+3,Qual o nome que se da a um "p� de uvas"?, a) Videira, b) Uval, c) Uveiro, d) Raiz De Uvas
+4,Voc� est� dirigindo um �nibus, na primeira parada sobe Jo�o e Maria, e na segunda sobe Aline e Lucas, e na terceira Clayton. Qual o nome do motorista?, a) Voc�, b) Clayton, c) Jo�o, d) nenhuma das alternativas 
+5,Qual o coletivo de Lobos?, a) Armada, b) Alcateia, c) Manada, d) Matilha 
+6,Qual nome se d� ao masculino adulto de cabra?, a) Cabrito, b) Cabra-Macho, c) Bode, d) Carneiro 
+7,De onde � a inven��o do chuveiro el�trico?, A) Fran�a, B) Inglaterra, C) Brasil, D) Austr�lia, E) It�lia
+8,Em que ano foi inventada a bicicleta?,A) 1817, B) 1960, C) 1680, D) 1798, E) 1990
+9,Quantos "9" tem de 0 a 100?, a) 10, b) 11, c) 19, d) 20, e) 21 
+10,Quem descobriu o Brasil?,a) Dom Pedro II, b) Pedro �lvares Cabral, c) Crist�v�o Colombo, d) Bartolomeu Dias Constantino, e) Dom Pedro I
+11,Qual foi a primeira capital do Brasil?, a) Bras�lia, b) Rio de Janeiro, c) S�o Paulo, d) Salvador, e) Minas Gerais
+12,Qual o livro mais vendido no mundo a seguir � B�blia?,A) O Senhor dos An�is, B) Dom Quixote, C) O Pequeno Pr�ncipe, D) Ela, a Feiticeira, E) Um Conto de Duas Cidades
+
+ }
