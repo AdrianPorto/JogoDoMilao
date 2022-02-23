@@ -208,7 +208,6 @@ public class JogoDoMilao {
 			// while((Pergu =ler.readLine())!=null)
 			// {
 			// System.out.println(Pergu);
-			// }
 
 			// String que irá receber cada linha do arquivo
 
