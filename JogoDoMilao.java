@@ -332,7 +332,7 @@ public class JogoDoMilao {
 
 	// Metodo 1.4
 	public static void AlternativaCorreta(Integer Index, String nAlternativa) {
-		HashMap<Boolean, String> Alternativa = new HashMap<Boolean, String>();
+		HashMap<Integer, String> Alternativa = new HashMap<Integer, String>();
 
 		Alternativa.put(1, "C");
 		Alternativa.put(2, "C");
