@@ -72,7 +72,7 @@ public class JogoDoMilao {
 	public static boolean Errado = false;
 
 	public static Integer nIndex;
-	public static char Caracter;''
+	public static char Caracter;
 	public static int Ranking;
 	public static int Tentativas;
 	public static int Contador = 0;
@@ -198,8 +198,8 @@ public class JogoDoMilao {
 	public static String Pergunta(int aleatorio) {
 
 		try {
-			File dir = new File("C:\\Users\\gusto\\Downloads\\Trabalho Faculdade");
-			File Perguntas = new File(dir, "Perguntas.txt");
+
+			File Perguntas = new File("../JogoDoMilao/Perguntas.txt");
 
 			@SuppressWarnings("resource")
 			// Indicamos o arquivo que será lido
